@@ -1,0 +1,64 @@
+#header-nav{
+	background-color: grey;
+	
+	border-radius: 0px;
+	border:0px;
+}
+.navbar-brand h1{
+	font-size: 30px;
+	font-weight: bold;
+	font-style: "Lora",serif;
+	padding-top: -15px;
+	padding-bottom:0px;
+	
+	text-shadow: 1px 1px 1px #222
+	line-height:.75;
+	margin-top: 0px;
+	margin-bottom:0px;
+	float: left;
+	color: black;
+}
+	h2{
+	text-transform: uppercase;
+	color: black;
+	text-align:center;
+	margin-bottom: 15px;
+   margin-top: 15px;
+}
+
+
+#main-content{
+	background-color: grey;
+	text-align: center;
+	border:1px solid black;
+	color: black;
+	margin-bottom: 25px;
+}
+
+
+
+
+
+section div{
+	width: 100%;
+	font-size: 20px;
+
+	
+	
+	text-transform: uppercase;
+	text-align: center;
+	
+	margin-left: auto;	
+	margin-right:auto;
+
+	background-color: white;
+	margin-bottom: 25px;
+}
+section{
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 1px;
+	padding-left: 25px;
+
+}
